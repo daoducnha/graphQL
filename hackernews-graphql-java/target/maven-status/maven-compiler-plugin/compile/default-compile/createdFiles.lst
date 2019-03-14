@@ -1,0 +1,5 @@
+Mutation.class
+Query.class
+Link.class
+GraphQLEndpoint.class
+LinkRepository.class
